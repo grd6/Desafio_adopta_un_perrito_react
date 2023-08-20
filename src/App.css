@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
